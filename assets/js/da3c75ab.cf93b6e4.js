@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknomadd=self.webpackChunknomadd||[]).push([[7051],{6475:e=>{e.exports=JSON.parse('{"permalink":"/nomadd-documentation-beta/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
